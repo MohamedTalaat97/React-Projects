@@ -1,0 +1,11 @@
+div.container-fluid.jumbo {
+  background-image: url("https://ak4.picdn.net/shutterstock/videos/1016205694/thumb/9.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 4%;
+  color: white;
+}
+div.container-fluid.jumbo h1 {
+  margin-top: 2%;
+  border: yellow;
+}
